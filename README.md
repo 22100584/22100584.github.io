@@ -1,23 +1,37 @@
----
+## Welcome to GitHub Pages
 
-title:  "github.io 블로그  첫 글"
+You can use the [editor on GitHub](https://github.com/22100584/22100584.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-excerpt: "github.io 블로그 첫 글 작성해봅니다."
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-categories:
+### Markdown
 
-  - Blog
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-tags:
+```markdown
+Syntax highlighted code block
 
-  - Blog
+# Header 1
+## Header 2
+### Header 3
 
-last_modified_at: 2019-04-13T08:06:00-05:00
----
+- Bulleted
+- List
 
-글작성하기 위해 마크다운을 공부해서 
-좋은 글들을 작성해 보자.
+1. Numbered
+2. List
 
-이 글의 제목은 {{ page.title }}이고
+**Bold** and _Italic_ and `Code` text
 
-마지막 수정 시간은 {{ page.last_modified_at }}이다.
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/22100584/22100584.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
