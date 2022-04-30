@@ -16,9 +16,6 @@ last_modified_at: 2019-04-13T08:06:00-05:00
 
 ---
 
-
-
-
 ## Welcome to GitHub Pages
 
 글작성하기 위해 마크다운을 공부해서 
