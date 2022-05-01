@@ -30,12 +30,12 @@ This an H1
 ***
 수평선만들기
 
-```#include <stdio.h>
+'''#include <stdio.h>
 
 int main(void) {
   printf("Hello World\n");
   return 0;
-}```
+}'''
 
 
 
